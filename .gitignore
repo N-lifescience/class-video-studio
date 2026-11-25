@@ -1,0 +1,25 @@
+# 파이썬 환경과 내려받는 모델
+.venv/
+__pycache__/
+*.pyc
+models/*
+!models/README.md
+
+# 수업 영상과 작업 폴더는 저장소에 올리지 않는다(학생 얼굴·목소리)
+작업/
+work/
+*.mp4
+*.mov
+*.MOV
+*.m4v
+*.avi
+*.wmv
+*.mkv
+*.wav
+*.m4a
+*.mp3
+
+# 맥과 윈도우가 남기는 것
+.DS_Store
+Thumbs.db
+.handoff/

@@ -1,0 +1,66 @@
+수업 영상 편집실 — 이용 허락 (Class Video Studio — Terms of Use)
+
+Copyright (c) 2026 N-lifescience. All Rights Reserved.
+
+이 저작물(소스코드·스킬·문서 전체, 이하 「이 저작물」)의 저작권은 N-lifescience 에
+있습니다. 아래 범위 안에서만 따로 허락을 받지 않고 쓰실 수 있습니다.
+
+
+## 1. 허락합니다 — 비영리 목적으로 「가져다 쓰는 것」
+
+- 수업발표대회·수업 공개·연수처럼 **영리를 목적으로 하지 않는** 곳에 낼 수업 영상을 만드는 데
+  이 저작물을 내려받아 **자기 컴퓨터에서 실행하는 것**.
+  (내려받는 과정에서 생기는 복제는 이용에 필요한 범위로 허락합니다)
+- 이 저작물로 만든 **영상·편집안·받아쓰기 파일은 만든 사람의 것**입니다. 이 허락서의 제한을 받지 않습니다.
+- 화면 갈무리를 연수·수업 자료에 **출처를 밝히고** 쓰는 것.
+
+
+## 2. 미리 허락을 받아야 합니다 — 개별 연락
+
+- **재배포** — 전부나 일부를 다른 곳에 다시 올리는 것, 포크를 공개하는 것, 자기 서비스에 싣는 것.
+- **수정·2차 저작** — 고쳐서 나누는 것, 일부를 떼어 다른 프로그램에 넣는 것.
+  (자기 컴퓨터에서 자기만 쓰려고 고치는 것은 괜찮습니다)
+- **영리 목적의 이용** — 유료 강의·상품·서비스에 이 저작물 자체를 쓰거나 파는 것.
+
+문의: GitHub 이슈 또는 인스타그램 @n_life_science
+
+
+## 3. 이 저작물이 쓰는 남의 것
+
+실행할 때 내려받는 모델과 프로그램은 이 저장소에 들어 있지 않으며, 각자의 라이선스를 따릅니다.
+
+- FFmpeg (LGPL/GPL) — 사용자가 따로 설치
+- YuNet 얼굴 찾기 모델 `face_detection_yunet_2023mar.onnx` (OpenCV Zoo, MIT License) — 설치할 때 내려받음
+- Whisper 받아쓰기 모델 (OpenAI, MIT License) — mlx-community 변환본 또는 faster-whisper 변환본, 처음 받아쓸 때 내려받음
+- OpenCV, NumPy, Pillow, gdown, pypdf, olefile, mlx-whisper, faster-whisper 등 `requirements.txt` 의 패키지
+- 글꼴은 사용자 컴퓨터에 설치된 글꼴을 씁니다(맥 Apple SD Gothic Neo, 윈도우 맑은 고딕).
+
+
+## 4. 학생의 얼굴과 목소리에 관해
+
+수업 영상에는 학생의 얼굴·목소리·이름이 담깁니다. 촬영과 제출에 필요한 **학교의 동의 절차를 먼저
+밟으세요.** 이 저작물의 얼굴 흐림은 모든 얼굴을 찾는다고 보증하지 않습니다. 제출하기 전에 사람이
+처음부터 끝까지 확인해야 하며, 그로 인한 책임은 쓴 사람에게 있습니다.
+
+
+## 5. 보증하지 않습니다
+
+이 저작물은 「있는 그대로」 제공됩니다. 저작권자는 어떠한 보증도 하지 않으며, 이 저작물의 사용이나
+사용 불능으로 생긴 어떤 손해에 대해서도 책임지지 않습니다.
+
+
+---
+
+## English summary (the Korean text above governs)
+
+Copyright (c) 2026 N-lifescience. All rights reserved.
+
+**Permitted without asking:** downloading and running this work on your own computer for
+**non-commercial** purposes. Videos, edit plans and transcripts you create are yours.
+Modifying it for your own use only is fine.
+
+**Requires prior permission:** redistribution (including publishing a fork), distributing
+modified versions or derivative works, and commercial use of this work itself.
+
+Face blurring is not guaranteed to catch every face; review the output yourself before submitting.
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
