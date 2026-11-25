@@ -102,6 +102,8 @@ AI가 [`.claude/skills/class-video/SKILL.md`](.claude/skills/class-video/SKILL.m
 .venv/bin/python -m unittest discover -s tools/tests    # 가짜 영상으로 도는 시험
 ```
 
+시험은 설치(`./setup` 또는 `setup.bat`)를 마친 뒤에 돌려요. 얼굴 찾기 모델이 `models/`에 있어야 해요.
+
 ## 함께 쓰는 도구
 
 - [콘티 작업실](https://n-lifescience.github.io/conti-studio/) — 남길 장면을 컷마다 영상으로 보며 고치는 웹앱이에요(설치 없음, 크롬, 엣지, 웨일)
