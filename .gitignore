@@ -23,3 +23,6 @@ work/
 .DS_Store
 Thumbs.db
 .handoff/
+
+# 이 컴퓨터에서만 쓰는 미리보기 설정
+.claude/launch.json
